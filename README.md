@@ -2,7 +2,7 @@
   <br>
   <img src="https://github.com/x86txt/homelab/blob/862d8d63ecd71d25a34249ffeb484f673aa2c000/assets/homelab.jpg?raw=true" style="width:200px;height:199px;">
   <br>
-  Matt's Homelab
+  Matt's Homelab Community
   <br>
 </h1>
 
