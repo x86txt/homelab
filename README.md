@@ -6,7 +6,9 @@
   <br>
 </h1>
 
-<h4 align="center">a collection of configs and architecture suggestions for homelab environments</h4>
+<h4 align="center">
+  a welcoming community for help, discussion, as well as sharing configs<br> 
+  and architecture suggestions for homelab environments</h4>
 
 <p align="center">
 <a href="https://creativecommons.org/licenses/by-sa/4.0/"><img src="https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey.svg?style=flat-square" alt="Attribution-ShareAlike 4.0 International"></a>
