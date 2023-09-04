@@ -11,11 +11,11 @@
   and architecture suggestions for homelab environments</h4>
 
 <p align="center">
-<a href="https://creativecommons.org/licenses/by-sa/4.0/"><img src="https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey.svg?style=flat-square" alt="Attribution-ShareAlike 4.0 International"></a>
-<a href="https://nginx.org/"><img src="https://img.shields.io/badge/hosted_on-Nginx-brightgreen.svg?style=flat-square"></a>
-<img src="https://img.shields.io/badge/protected_by-Cloudflare-F38020?style=flat-square">
+<a href="https://creativecommons.org/licenses/by-sa/4.0/"><img src="https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey.svg?style=flat-square" height="24" alt="Attribution-ShareAlike 4.0 International"></a>
+<a href="https://nginx.org/"><img src="https://img.shields.io/badge/hosted_on-Nginx-brightgreen.svg?style=flat-square" height="24"></a>
+<img src="https://img.shields.io/badge/protected_by-Cloudflare-F38020?style=flat-square" height="24">
 <a href="https://ko-fi.com/homelabs">
-      <img src="https://img.shields.io/badge/support_via-Ko--Fi-FF5E5B.svg?style=flat-square">
+      <img src="https://img.shields.io/badge/support_via-Ko--Fi-FF5E5B.svg?style=flat-square" height="24">
 
 <p align="center">
   <a href="#hardware">Hardware</a> •
